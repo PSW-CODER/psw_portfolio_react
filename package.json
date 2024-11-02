@@ -1,7 +1,7 @@
 {
   "name": "react_portfolio",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/psw_portfolio_react",
+  "homepage": "https://PSW-CODER.github.io/psw_portfolio_react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
